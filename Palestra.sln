@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palestra", "Palestra\Palestra.csproj", "{56F3D8C4-1E5C-4202-A36B-975D7C88F025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F3D8C4-1E5C-4202-A36B-975D7C88F025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F3D8C4-1E5C-4202-A36B-975D7C88F025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F3D8C4-1E5C-4202-A36B-975D7C88F025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F3D8C4-1E5C-4202-A36B-975D7C88F025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19531580-24DD-4A6B-96D1-A76B15583BC1}
+	EndGlobalSection
+EndGlobal
